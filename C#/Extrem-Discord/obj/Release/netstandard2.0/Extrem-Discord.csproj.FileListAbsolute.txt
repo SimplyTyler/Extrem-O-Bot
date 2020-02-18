@@ -1,0 +1,8 @@
+C:\Users\brown\source\repos\Extrem-Discord\bin\Release\netstandard2.0\Extrem-Discord.deps.json
+C:\Users\brown\source\repos\Extrem-Discord\bin\Release\netstandard2.0\Extrem-Discord.dll
+C:\Users\brown\source\repos\Extrem-Discord\bin\Release\netstandard2.0\Extrem-Discord.pdb
+C:\Users\brown\source\repos\Extrem-Discord\obj\Release\netstandard2.0\Extrem-Discord.csprojAssemblyReference.cache
+C:\Users\brown\source\repos\Extrem-Discord\obj\Release\netstandard2.0\Extrem-Discord.AssemblyInfoInputs.cache
+C:\Users\brown\source\repos\Extrem-Discord\obj\Release\netstandard2.0\Extrem-Discord.AssemblyInfo.cs
+C:\Users\brown\source\repos\Extrem-Discord\obj\Release\netstandard2.0\Extrem-Discord.dll
+C:\Users\brown\source\repos\Extrem-Discord\obj\Release\netstandard2.0\Extrem-Discord.pdb
