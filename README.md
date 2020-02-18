@@ -1,7 +1,7 @@
 # Extrem-O-Bot
 Multi-Tasking Discord Bots
 
-### This project is to see how well we could multithread a discord bot across a couple differnet programming language. The main ones we will be focusing on will be JavaScript, C-Sharp, and Python.
+### This project is to see how well we could multithread a discord bot across multiple different programming language. The main languages are JavaScript, C-Sharp, and Python. Of course these bots will be separated and you can choose between them.
 
 # Setting up a bot in Linux
 
